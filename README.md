@@ -12,7 +12,7 @@ Just Java Sample App
 
 This app displays an order form for coffee. Used in the Udacity Android for Beginners course. This is how the app would look like after build and running:
 
-<img width="427" alt="Screenshot 2022-02-08 at 7 31 06 PM" src="https://raw.githubusercontent.com/kendrickchibueze/-Modern-Node-on-AWS/ca0a165bd4e1b87f3fa21d4a5576a9c874b934f7/aws-images/Screenshot%20(219).png">
+<img width="427" alt="Screenshot 2022-02-08 at 7 31 06 PM" src="https://github.com/kendrickchibueze/-Modern-Node-on-AWS/blob/main/aws-images/Screenshot%20(228).png?raw=true">
 
 
 Pre-requisites
